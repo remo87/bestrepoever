@@ -1,5 +1,5 @@
 # bestrepoever
 
-This should b som new text
+This should be some new test blah
 
-and this is a new line
+and this is a whole new linegit
